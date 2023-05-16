@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 1st milestone: ( 5 days ) 200 euros
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+Design and development - 100 Euro
+Landing page, product details, all product page, review, login signup page,blogs (all bascis web site)
 
-### `npm start`
+(( Cards )) ->
+Genrating, Handling and print
+Backend Development - 100 Euro
+Rollbase Auth system (User, admin, seller ), Product CRUD, Order CRUD, Shop CRUD,
+Review CRUD - (Admin CRUDs)
+(( Cards )) ->
+Genrating, Handling and print
+(see my figma)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 2nd milestone ( 7 - 10 working days): 150 euros \*
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+User (Seller and Bayer ) : with rights, wallet (proof paiment with screenshot)
+Test connection with Admin : withdraw from wallet etc ...
+user can bay , and admin can sell with wallet
+Notifications Mails
+History
+wallet fonctionalities
+(see my figma)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 3rd milestone \* (7-10 days) 100 euro
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Notifications Mail and messages(phone textos), History
+  Live chat [ Not a custom chat, 3rd party chat feature integration ex: Botmind ]
+  using of wallet (sending proof of paiment bank (wallet))
 
-### `npm run eject`
+(see my figma)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 4th milestone \* (5 days) 150
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+(Integration of 1-Paiment Strip + paypal,3-Local API)
+(Integrate curencies )
+(Integrate langages )
+(api messages notification)
 
-## Learn More
+(see my figma)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 5th milestone Finalisation 100 euros
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Test and delivry (Should evry things work correctly )
+(see my figma) and deroulate the senario
