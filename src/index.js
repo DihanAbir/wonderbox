@@ -5,6 +5,11 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ThemeProvider } from '@material-tailwind/react';
 import AuthProvider from './ContextAPI/AuthProvider';
+import { Provider } from 'react-redux';
+import store from './store';
+
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const theme = {
@@ -28,9 +33,11 @@ const theme = {
 root.render(
   <React.StrictMode>
     <ThemeProvider value={theme}>
-      <AuthProvider>
-        <App />
-      </AuthProvider>
+      <Provider store={store} >
+        <AuthProvider>
+          <App />
+        </AuthProvider>
+      </Provider>
     </ThemeProvider>
   </React.StrictMode>
 );
